@@ -1,2 +1,2 @@
 # Tick-Stopwatch-Support
-supperot: amber@moblu.dev
+support email: amber@moblu.dev
